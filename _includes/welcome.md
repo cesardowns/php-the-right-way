@@ -1,10 +1,9 @@
-# Welcome
+# Velkommen
 
-There's a lot of outdated information on the Web that leads new PHP users astray,
-propagating bad practices and insecure code. _PHP: The Right Way_ is an easy-to-read,
-quick reference for PHP popular coding standards, links to authoritative tutorials
-around the Web and what the contributors consider to be best practices at the present
-time.
+Det er mye av utdatert informasjon på web at fører ny PHP brukere på avveie,
+forplanta dårlig skikker og utrygg kode. _PHP: The Right Way_ er en lett-å-lese, rask
+referanse for PHP populær koding standarder, lenker til autoritativ artikler rundt nettet
+og hva bidragsyterne vurdere å være beste skikker for øyeblikket.
 
 _There is no canonical way to use PHP_. This website aims to introduce new PHP
 developers to some topics which they may not discover until it is too late, and aims
