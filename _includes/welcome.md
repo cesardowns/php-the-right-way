@@ -5,6 +5,14 @@ forplanta dårlig skikker og utrygg kode. _PHP: The Right Way_ er en lett-å-les
 referanse for PHP populær koding standarder, lenker til autoritativ artikler rundt nettet
 og hva bidragsyterne vurdere å være beste skikker for øyeblikket.
 
+_Det er ikke en kanonisk måte å bruke PHP_. Denne nettside har mål å introdusere ny PHP
+utviklere å enkelte emner som de kunne ikke oppdage før det er for sent, og har mål å
+gi erfarne fagfolk noen friske ideer til 
+
+Dette er et levende dokument og skal fortsetter å være oppdatert med mer hjelpspm
+informasjon og eksempler når de blir tilgjengelige.
+
+
 _There is no canonical way to use PHP_. This website aims to introduce new PHP
 developers to some topics which they may not discover until it is too late, and aims
 to give seasoned pros some fresh ideas on those topics they've been doing for years
