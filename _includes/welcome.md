@@ -7,47 +7,36 @@ og hva bidragsyterne vurdere å være beste skikker for øyeblikket.
 
 _Det er ikke en kanonisk måte å bruke PHP_. Denne nettside har mål å introdusere ny PHP
 utviklere å enkelte emner som de kunne ikke oppdage før det er for sent, og har mål å
-gi erfarne fagfolk noen friske ideer til 
+gi erfarne fagfolk noen friske ideer på de emnene de har gjort for mange år uten å ta hensyn. Denne nettsiden skal ikke forteller hvilken verktøy for å brukes, men istedet å med forslag for flere alternativer, når det er mulig forklare forskjellene på tilnærming og bruk-case.
 
-Dette er et levende dokument og skal fortsetter å være oppdatert med mer hjelpspm
+Dette er et levende dokument og skal fortsetter å være oppdatert med mer hjelpsom
 informasjon og eksempler når de blir tilgjengelige.
-
-
-_There is no canonical way to use PHP_. This website aims to introduce new PHP
-developers to some topics which they may not discover until it is too late, and aims
-to give seasoned pros some fresh ideas on those topics they've been doing for years
-without ever reconsidering. This website will also not tell you which tools to use, but
-instead offer suggestions for multiple options, when possible explaining the differences
-in approach and use-case.
-
-This is a living document and will continue to be updated with more helpful information
-and examples as they become available.
 
 ## Translations
 
-_PHP: The Right Way_ is translated into many different languages:
+_PHP: The Right Way_ er oversette til mange forskjellene språk:
 
-* [English](http://www.phptherightway.com)
-* [Bulgarian](http://bg.phptherightway.com/)
-* [Chinese (Simplified)](http://laravel-china.github.io/php-the-right-way/)
-* [Chinese (Traditional)](http://laravel-taiwan.github.io/php-the-right-way)
-* [French](http://eilgin.github.io/php-the-right-way/)
-* [German](http://rwetzlmayr.github.io/php-the-right-way/)
-* [Indonesian](http://id.phptherightway.com/)
-* [Italian](http://it.phptherightway.com/)
-* [Japanese](http://ja.phptherightway.com)
-* [Korean](http://modernpug.github.io/php-the-right-way/)
-* [Persian](http://novid.github.io/php-the-right-way/)
-* [Polish](http://pl.phptherightway.com/)
-* [Portuguese (Brazil)](http://br.phptherightway.com/)
-* [Romanian](https://bgui.github.io/php-the-right-way/)
-* [Russian](http://getjump.github.io/ru-php-the-right-way)
-* [Serbian](http://phpsrbija.github.io/php-the-right-way/)
-* [Slovenian](http://sl.phptherightway.com)
-* [Spanish](http://phpdevenezuela.github.io/php-the-right-way/)
+* [Engelsk](http://www.phptherightway.com)
+* [Bulgarsk](http://bg.phptherightway.com/)
+* [Kinesisk (Forenklet)](http://laravel-china.github.io/php-the-right-way/)
+* [Kinesisk (Tradisjonell)](http://laravel-taiwan.github.io/php-the-right-way)
+* [Fransk](http://eilgin.github.io/php-the-right-way/)
+* [Tysk](http://rwetzlmayr.github.io/php-the-right-way/)
+* [Indonesisk](http://id.phptherightway.com/)
+* [Italiensk](http://it.phptherightway.com/)
+* [Japansk](http://ja.phptherightway.com)
+* [Koreansk](http://modernpug.github.io/php-the-right-way/)
+* [Persisk](http://novid.github.io/php-the-right-way/)
+* [Polsk](http://pl.phptherightway.com/)
+* [Portugisisk (Brazil)](http://br.phptherightway.com/)
+* [Rumansk](https://bgui.github.io/php-the-right-way/)
+* [Russisk](http://getjump.github.io/ru-php-the-right-way)
+* [Serbisk](http://phpsrbija.github.io/php-the-right-way/)
+* [Slovensk](http://sl.phptherightway.com)
+* [Spansk](http://phpdevenezuela.github.io/php-the-right-way/)
 * [Thai](https://apzentral.github.io/php-the-right-way/)
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
-* [Ukrainian](http://iflista.github.com/php-the-right-way/)
+* [Ukrainsk](http://iflista.github.com/php-the-right-way/)
 
 ## How to Contribute
 
