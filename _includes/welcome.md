@@ -1,6 +1,6 @@
 # Velkommen
 
-Det er mye av utdatert informasjon på web at fører ny PHP brukere på avveie,
+Det er mye av utdatert informasjon på internett at fører ny PHP brukere på avveie,
 forplanta dårlig skikker og utrygg kode. _PHP: The Right Way_ er en lett-å-lese, rask
 referanse for PHP populær koding standarder, lenker til autoritativ artikler rundt nettet
 og hva bidragsyterne vurdere å være beste skikker for øyeblikket.
@@ -12,7 +12,7 @@ gi erfarne fagfolk noen friske ideer på de emnene de har gjort for mange år ut
 Dette er et levende dokument og skal fortsetter å være oppdatert med mer hjelpsom
 informasjon og eksempler når de blir tilgjengelige.
 
-## Translations
+## Oversettelser
 
 _PHP: The Right Way_ er oversette til mange forskjellene språk:
 
@@ -35,19 +35,18 @@ _PHP: The Right Way_ er oversette til mange forskjellene språk:
 * [Slovensk](http://sl.phptherightway.com)
 * [Spansk](http://phpdevenezuela.github.io/php-the-right-way/)
 * [Thai](https://apzentral.github.io/php-the-right-way/)
-* [Turkish](http://hkulekci.github.io/php-the-right-way/)
+* [Tyrkisk](http://hkulekci.github.io/php-the-right-way/)
 * [Ukrainsk](http://iflista.github.com/php-the-right-way/)
 
-## How to Contribute
+## Hvordan du kan Brida
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Bidra til å gjøre dette nettside den beste kilden for nye PHP programmerer! [Bidra på Github][1]
 
-## Spread the Word!
+## Spre Ordet!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_PHP: The Right Way_ har web banner bilder du kan bruke på nettsiden din. Vise din støtte og la ny PHP utviklere kjenne hvor til å finne informasjon!
 
-[See Banner Images][2]
+[Se Banner Bilder][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html
